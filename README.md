@@ -17,3 +17,6 @@ Hmm. Interesting question. The whole point is to experiment with these very choi
 - Message passing: 1) rabbitmq, 2) 0mq, 3) Resque
 - Raw data capture: RRD
 - Database: 1) MySQL, 2) Redis
+
+:)
+
